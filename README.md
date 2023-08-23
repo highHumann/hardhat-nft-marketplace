@@ -18,8 +18,8 @@ Nft Marketplace is solidity smart contract for a decentralized marketplace for N
 ## Installation
 First clone the repository and start the project by
 ```bash
-git clone (repository url from your browser)
-cd (name of the div)
+git clone https://github.com/highHumann/hardhat-nft-marketplace.git
+cd hardhat-nft-marketplace.git
 yarn
 ```
 
